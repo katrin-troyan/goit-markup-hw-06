@@ -914,7 +914,7 @@ img {
             padding: 0 0 0 16px;
         }
 }
-@media screen and (max-width: 767px) {
+
 .nav-modal-overlay {
     position: fixed;
     top: 0;
@@ -1018,8 +1018,6 @@ img {
     gap: 40px;
     margin-left: 16px;
 }
-}
-
 
 .modal-overlay{
     position: fixed;
