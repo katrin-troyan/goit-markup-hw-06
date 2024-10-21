@@ -1205,8 +1205,6 @@ img {
         line-height: 1.17;
         letter-spacing: 0.04em;
         color: #8e8f99;
-        display: flex;
-        gap: 8px;
 }
 
 .lable-checkbox-span { 
@@ -1261,10 +1259,6 @@ color: #4d5ae5;
     }
     .input-modal {
         width: 256px;
-    }
-    .lable-checkbox {
-    display: flex;
-    align-items: center;
     }
     .button-send {
         margin-left: 44px;
